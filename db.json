@@ -1,0 +1,83 @@
+{
+  "status": 200,
+  "message": "Ok",
+  "content": [
+    {
+      "id": 10,
+      "type": "FACIAL",
+      "code": "8000",
+      "result": "HIT",
+      "dni": "46621554",
+      "source": "LINEA_NORMAL",
+      "company_id": "20466215541",
+      "company": "CORE42",
+      "date": "1583710701"
+    },
+    {
+      "id": 11,
+      "type": "FACIAL",
+      "code": "7001",
+      "result": "NO HIT",
+      "dni": "46621554",
+      "source": "LINEA_DEDICADA",
+      "company_id": "20466215541",
+      "company": "CORE42",
+      "date": "1583320701"
+    },
+    {
+      "id": 20,
+      "type": "DACTILAR",
+      "code": "7001",
+      "result": "NO HIT",
+      "dni": "46621554",
+      "source": "LINEA_NORMAL",
+      "company_id": "20466215541",
+      "company": "CORE42",
+      "date": "1583720501"
+    },
+    {
+      "id": 21,
+      "type": "DACTILAR",
+      "code": "8000",
+      "result": "HIT",
+      "dni": "46621554",
+      "source": "LINEA_DEDICADA",
+      "company_id": "20616115541",
+      "company": "Alavista Marketing",
+      "date": "1583450701"
+    },
+    {
+      "id": 30,
+      "type": "DATOS",
+      "code": null,
+      "result": "FULL",
+      "dni": "46621554",
+      "source": "LINEA_DEDICADA",
+      "company_id": "20466215541",
+      "company": "CORE42",
+      "date": "1583712701"
+    },
+    {
+      "id": 31,
+      "type": "DATOS",
+      "code": null,
+      "result": "BASIC",
+      "dni": "46621554",
+      "source": "LINEA_NORMAL",
+      "company_id": "20466215541",
+      "company": "CORE42",
+      "date": "1583752301"
+    },
+    {
+      "id": 31,
+      "type": "DATOS",
+      "code": null,
+      "result": "BASIC",
+      "dni": "46621554",
+      "source": "LINEA_NORMAL",
+      "company_id": "20616115541",
+      "company": "Alavista Marketing",
+      "date": "1583752301"
+    }
+  ]
+}
